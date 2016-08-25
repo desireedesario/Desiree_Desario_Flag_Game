@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flag Game!</title>
+
+  	<!-- your CSS stylesheet -->
+  	<link href="css/jquery-ui.css" rel="stylesheet" type="text/css">
+  	<link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="shortcut icon" href="img/map.ico" type="image/x-icon">
+    <link rel="icon" href="img/map.ico" type="image/x-icon">
+
+    <!-- JAVASCRIPT -->
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/miso.ds.js"></script>
+    <script src="js/underscore.js"></script>
+    <script src="data/countries.js"></script>
+
+    <script src="js/game.js"></script>
+  </head>
+  <body id="container">
+<center><h1>Flag Game!</h1><h6>By Desiree Desario</h6></center>
+
+<center>
+  <div id="results" class="clearfix"><b>
+          HOW MANY COUNTRIES ARE YOU FAMILIAR WITH?
+       </b> </div>
+</center>
+  <div>
+    	<div id="answers" class="clearfix">
+            <div class="playPause">                            <!-- <img src="img/pause.png" style="width:50%;padding-bottom:10%;margin-bottom:5%;"> -->
+            </div>
+            <div id="score">
+            </div>
+            <div id="togo">
+            </div>
+            <div id="incorrect">
+            </div>
+     </div>
+       <center>
+    	<div id="qanda">
+        <div id="flags">
+
+          </div>
+            <h2>Pick which country the flag belongs to:</h2>
+    		<div id="countries">
+
+    		</div>
+	   	</div></center>
+  </div>
+  <!-- audio loop game music -->
+     <audio autoplay="autoplay" loop="loop" class="theme">
+          <source src="audio/mouthharp.mp3" type="audio/mpeg">
+    </audio>
+   <!-- audio loop game music -->
+   <!-- SOUNDBITES -->
+    <audio id="correct">
+          <source src="audio/tada.mp3" type="audio/mp3">
+    </audio>
+       <audio id="ecuador">
+          <source src="audio/ecuador.mp3" type="audio/mp3">
+    </audio>
+    <audio class="theme">
+       <source src="audio/mouthharp.mp3" type="audio/mp3">
+     </audio>
+         <audio id="error">
+          <source src="audio/basso.mp3" type="audio/mp3">
+    </audio>
+    <!-- SOUNDBITES -->
+  </body>
+
+</html>

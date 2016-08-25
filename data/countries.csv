@@ -1,0 +1,42 @@
+country,code2,code2lower,code3,capital,population
+Antigua and Barbuda,AG,ag,ATG,St. John's,89K
+Argentina,AR,ar,ARG,Buenos Aires,42M
+Bahamas,BS,bs,BHS,Nassau,316K
+Barbados,BB,bb,BRB,Bridgetown,288K
+Belize,BZ,bz,BLZ,Belmopan,328K
+Bolivia,BO,bo,BOL,Sucre,10.3M
+Brazil,BR,br,BRA,Brasilia,205M
+Canada,CA,ca,CAN,Ottawa,34M
+Chile,CL,cl,CHL,Santiago,17M
+Colombia,CO,co,COL,Bogota,45M
+Costa Rica,CR,cr,CRI,San Jose,4.6M
+Cuba,CU,cu,CUB,Havana,11M
+Domican Republic,DO,do,DOM,Santo Domingo,10.1M
+Dominica,DM,dm,DMA,Roseau,73K
+Ecuador,EC,ec,ECU,Quito,15M
+El Salvador,SV,sv,SLV,San Salvador,6.1M
+Grenada,GD,gd,GRD,Saint George's,109K
+Guatemala,GT,gt,GTM,Guatemala City,14M
+Guyana,GY,gy,GUY,Georgetown,742K
+Haiti,HT,ht,HTI,Port-au-Prince,9.8M
+Honduras,HN,hn,HND,Tegucigalpa,8.3M
+Jamaica,JM,jm,JAM,Kingston,2.9M
+Mexico,MX,mx,MEX,Mexico City,115M
+Nicaragua,NI,ni,NIC,Managua,5M
+Panama,PA,pa,PAN,Panama City,3.5M
+Paraguay,PY,py,PRY,Asuncion,6.5M
+Peru,PE,pe,PER,Lima,29M
+Saint Kitts and Nevis,KN,kn,KNA,Basseterre,51K
+Saint Lucia,LC,lc,LCA,Castries,162K
+Saint Vincent and the Grenadines,VC,vc,VCT,Kingstown,104K
+Suriname,SR,sr,SUR,Paramaribo,560K
+Trinidad and Tobago,TT,tt,TTO,Port of Spain,1.2M
+Unites States,US,us,USA,Washington D.C,313M
+Uruguay,UY,uy,URY,Montevideo,3.3M
+Venezuela,VE,ve,VEN,Caracas,28M
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+http://www.worldatlas.com/aatlas/ctycodes.htm,,,,,
+http://flagpedia.net/download,,,,,
